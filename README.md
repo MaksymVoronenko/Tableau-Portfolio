@@ -2,19 +2,43 @@
 
 **Maksym Voronenko | Data Analyst**
 
-A selection of my interactive dashboards built with Tableau.
+Three interactive dashboards exploring email engagement, website sessions, and sales revenue.
 
 **Tools:** Tableau, Tableau Public.
 
 ## 1. Email Metrics Dashboard
 
-![Email Metrics Dashboard](1.png)
+An email analytics dashboard tracking engagement metrics over time and across countries.
 
-[Open interactive dashboard](https://public.tableau.com/views/Emeilmetrics_17831494101960/Emeilmetrics)
+### Dashboard Features
+
+- Open rate, click rate, and click-to-open rate (CTOR) KPIs.
+- Daily trends in email engagement.
+- Country comparisons of email volume and engagement rates.
+
+![Email Metrics Dashboard](https://public.tableau.com/static/images/Em/Emeilmetrics_17831494101960/Emeilmetrics/1.png)
+
+[Open interactive dashboard](https://public.tableau.com/app/profile/maxim.voronenko2142/viz/Emeilmetrics_17831494101960/Emeilmetrics)
 
 ---
 
-## 2. Revenue Analysis Dashboard
+## 2. Session Analysis Dashboard
+
+A website traffic dashboard showing session volume, audience characteristics, and acquisition channels.
+
+### Dashboard Features
+
+- Session breakdowns by browser, channel, country, device, language, and operating system.
+- Daily session trends.
+- Channel and continent trends in session counts and percentage shares.
+
+![Session Analysis Dashboard](https://public.tableau.com/static/images/Se/SessionAnalysis_17827534564780/sessionanalysis/1.png)
+
+[Open interactive dashboard](https://public.tableau.com/app/profile/maxim.voronenko2142/viz/SessionAnalysis_17827534564780/sessionanalysis)
+
+---
+
+## 3. Revenue Analysis Dashboard
 
 A sales dashboard for exploring revenue and order volume over time, by product category and device.
 
